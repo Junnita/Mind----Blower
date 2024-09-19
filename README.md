@@ -100,4 +100,4 @@ Change directory to the repo folder:
 
 # Author
 
-* Junne Wanja 
+* JUNNE WANJA 
